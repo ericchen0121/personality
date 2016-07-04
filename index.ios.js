@@ -24,7 +24,7 @@ class Personality extends Component {
     	<NavigatorIOS
 	    	style={styles.container}
 	    	initialRoute = {{
-	    		title: "Personality",
+	    		title: "Choose a Personality",
 	    		component: Main
     	}} />
     );
